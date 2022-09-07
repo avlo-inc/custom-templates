@@ -1,1 +1,1 @@
-# custom-templates
+# AVLO SHOP - CUSTOM TEMPLATE EXAMPLES
